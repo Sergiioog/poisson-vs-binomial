@@ -8,7 +8,7 @@ p <- 0.5
 lambda <- 6
 
 # Media
-media_binomial = n * p
+media_binomial = n * p 
 media_poisson = lambda
 meanX = mean(muestra_X)
 meanY = mean(muestra_Y)
@@ -34,16 +34,16 @@ maxval_Y <- max(muestra_Y) # Binomial
 #Esta es de Poisson (forma sesgada a la derecha) MuestraX = Poisson
 hist_mX <- hist(muestra_X, 
                 col = "blue", 
-                main="Números",
-                xlab="Números",
-                ylab="Frecuencia de los números")
+                main="Distribución de Poisson",
+                xlab="Valor elementos",
+                ylab="Densidad")
 
 #Esta es Binomial (forma simetrica)  MuestraY = Binomial
 hist_mY <- hist(muestra_Y, 
                 col = "pink", 
-                main="Números",
-                xlab="Números",
-                ylab="Frecuencia de los números")
+                main="Distribución Binomial",
+                xlab="Valor elementos",
+                ylab="Densidad")
 
 
 
