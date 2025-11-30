@@ -1,0 +1,28 @@
+{
+    "id": "B0CEB2BD",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1764431591367.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "c9c0962129eb42a7a50f47594138f61c",
+        "name": "hist_mY",
+        "title": "hist_mY",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3486402075131208291,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1764431591367,
+    "read_only": false,
+    "read_only_alternatives": []
+}
